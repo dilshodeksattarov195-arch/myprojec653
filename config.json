@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorrpdate",
+        "uuid": 3362950,
+        "checksum": "4dsfln"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
